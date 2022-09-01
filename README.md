@@ -1,6 +1,6 @@
 # Install npm
 
-`npm install`.
+`npm install`
 
 # Run script
 
